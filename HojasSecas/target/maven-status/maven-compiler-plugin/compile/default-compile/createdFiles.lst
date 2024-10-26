@@ -1,0 +1,16 @@
+App\Main.class
+Frontend\LoginFrame$1.class
+Frontend\PropietarioFrame$1.class
+Controlador\Control.class
+Backend\Propietario.class
+Backend\Persona.class
+Backend\EspacioComun.class
+Backend\Empleado.class
+Frontend\EmpleadoFrame$1.class
+Backend\Multa.class
+Frontend\LoginFrame.class
+Backend\Casa.class
+Backend\Factura.class
+Backend\Propiedad.class
+Frontend\EmpleadoFrame.class
+Frontend\PropietarioFrame.class
